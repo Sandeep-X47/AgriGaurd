@@ -5,7 +5,7 @@ AgriGuard is a smart crop disease prediction tool that helps farmers and agricul
 ## 🚀 Features
 - 📊 **Predict Disease Risk** based on temperature & humidity.
 - ☁ **Fetch Live Weather Data** to get real-time inputs.
-- 🎨 **Dark Mode Toggle** for better UI experience.
+- 🎨 **Image Recognition** .
 - 📈 **Visualize Trends** with real-time risk analysis graphs.
 - 🔊 **Text-to-Speech (TTS)** for audio alerts.
 - 📂 **Save Predictions** in CSV for future reference.
